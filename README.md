@@ -1,11 +1,11 @@
 # Smart-health-monitoring-system
 
 ### PROBLEM STATEMENT
-•	As older adults become more physically frail, they’re less able to take care of themselves.
-•	Mental or physical ailments can make them less Susceptible to changes in their body conditions.
-•	And they may not see or hear as well or think as clearly as they used to, leaving openings for various ailments etc.
-•	To aid the elderly in their health-keeping and allow them to take care of themselves, a monitoring system is required that allows a third (Or even the elderly themselves) to quantitatively monitor their health and other conditions.
-•	So that when the time comes, appropriate action can be taken for their well-being
+•As older adults become more physically frail, they’re less able to take care of themselves.
+•Mental or physical ailments can make them less Susceptible to changes in their body conditions.
+•And they may not see or hear as well or think as clearly as they used to, leaving openings for various ailments etc.
+•To aid the elderly in their health-keeping and allow them to take care of themselves, a monitoring system is required that allows a third (Or even the elderly themselves) to quantitatively monitor their health and other conditions.
+•So that when the time comes, appropriate action can be taken for their well-being
 
 ### ABSTRACT
 The advancement of the Internet of Things technology is playing a key role in developing the health sector by making it much more accessible and affordable through easy to use applications for virtual and distant interactions with patients. Taking the capability of IoT technology into account, it is possible to overcome the difficulties faced by physically unstable or old patients in consulting a doctor physically on a regular basis. This work has led to a prototype of IoT Based Remote Health Monitoring System for Patients This also reduces the medical expenses for patients significantly. In addition, the doctors can prescribe necessary medications by observing the patient's health stats over time through an application. Detailed analysis of the signals was obtained with respect to variations in physical and environmental activities to understand the functioning of the sensors used.
