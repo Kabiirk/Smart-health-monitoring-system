@@ -1,4 +1,5 @@
 # **Smart-health-monitoring-system**
+### (The file needs to only be uploaded onto the ESP8266 board to work)
 
 ### **PROBLEM STATEMENT**
 As older adults become more physically frail, they’re less able to take care of themselves. Mental or physical ailments can make them less Susceptible to changes in their body conditions. And they may not see or hear as well or think as clearly as they used to, leaving openings for various ailments etc. To aid the elderly in their health-keeping and allow them to take care of themselves, a monitoring system is required that allows a third (Or even the elderly themselves) to quantitatively monitor their health and other conditions.So that when the time comes, appropriate action can be taken for their well-being
